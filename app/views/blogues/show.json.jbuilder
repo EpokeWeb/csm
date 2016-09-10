@@ -1,0 +1,1 @@
+json.partial! "blogues/blogue", blogue: @blogue

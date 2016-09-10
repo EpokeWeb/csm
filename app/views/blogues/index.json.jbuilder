@@ -1,0 +1,1 @@
+json.array! @blogues, partial: 'blogues/blogue', as: :blogue
